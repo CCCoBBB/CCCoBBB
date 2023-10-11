@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello! My name is Caleb or Cob for short. 
 
-<!--
-**CCCoBBB/CCCoBBB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am a web dev passionate about problem solving and teamwork.
 
-Here are some ideas to get you started:
+- I've just wrapped up a 15-week Full Stack Web Development course at DevAcademy Aotearoa, and it was an incredible journey that further ignited my passion for software development. During this program, we delved into a range of technologies like React, Node.js, Express Router, and Tailwind.
+  
+* I am currently working on a video calling web application using webRTC and websockets.
+  
++ For my final group project at DevAcademy, I worked on Clicky, a browser game which allows you to train your cursor accuracy skills, good for people who play video games. While working on this project, my primary focus was on testing backend routes and frontend components as well as creating front end components.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Here is my [LinkedIn](https://www.linkedin.com/in/caleb-li-0b3084272/) if you would like to connect. 
+Please contact me via email at caleb.nz.li@gmail.com.
+
+
